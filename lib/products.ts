@@ -69,7 +69,7 @@ export const products: Product[] = [
     color: "White",
     image: "/images/poplin-shirt.png",
     description:
-      "A crisp oversized shirt in crwhen compact cotton poplin. A wardrobe cornerstone with a relaxed collar and dropped shoulder.",
+      "A crisp oversized shirt in compact cotton poplin. A wardrobe cornerstone with a relaxed collar and dropped shoulder.",
     details: ["100% cotton poplin", "Oversized fit", "Mother-of-pearl buttons", "Dropped shoulder", "Made in Portugal"],
     sizes: ["XS", "S", "M", "L", "XL"],
   },
